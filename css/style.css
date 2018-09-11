@@ -1,0 +1,48 @@
+#sec-qled{	
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: cover;
+	height: 600px;
+	text-align: right;
+	padding:300px 0;
+}
+
+#sec-cooling{	
+	background-image:url(../img/slide-twin-cooling.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 600px;
+	text-align: center;
+	padding:300px 0;
+}
+.texto{
+	text-align: left;
+	font-style: normal;
+	font-weight: lighter;
+}
+span{
+	font-weight: 600;
+}
+.textodos{
+	text-align: left;
+	font-weight: lighter;
+	font-size: 22px;
+}
+
+.boton {
+	text-align: left;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+#sec-galaxy{
+	text-align: right;
+	
+}
+
+.boton2{
+	text-align: right;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
